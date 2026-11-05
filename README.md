@@ -31,10 +31,10 @@ To run the application on your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/naveedahmed35581-arch/naveed-mdv2.git
+git clone https://github.com/sohaibagencyhub-0/Sohai-MD-Mini-Bot
 
 # Navigate into the project folder
-cd naveed-mdv2
+cd sohaib-MD-Mini-Bot
 
 # Install dependencies
 npm install
@@ -49,10 +49,10 @@ If you prefer containerized deployment, build and run using Docker:
 
 ```bash
 # Build image
-docker build -t naveed-mdv2 .
+docker build -t sohaib-MD-Mini-Bot .
 
 # Run container
-docker run -d --name naveed-bot naveed-mdv2
+docker run -d --name sohaib-bot sohaib-MD-Mini-Bot
 ```
 
 ## 🔧 Configuration
