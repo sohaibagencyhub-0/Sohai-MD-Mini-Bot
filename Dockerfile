@@ -20,4 +20,3 @@ EXPOSE 5000
 
 # Start the app
 CMD ["npm", "start"]
-# Updated by Naveed MD - Nov 5
