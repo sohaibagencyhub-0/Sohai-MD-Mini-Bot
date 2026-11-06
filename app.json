@@ -1,8 +1,8 @@
 {
-  "name": "SOHAIB-MD MINI",
-  "description": "Javascript WhatsApp bot made by LOVETech",
+  "name": "𝐒𝐎𝐇𝐀𝐈𝐁 𝐀𝐆𝐄𝐍𝐂𝐘 𝐇𝐔𝐁 𝐁𝐎𝐓",
+  "description": "𝐒𝐎𝐇𝐀𝐈𝐁 𝐀𝐆𝐄𝐍𝐂𝐘 𝐇𝐔𝐁 𝐁𝐎𝐓 - Javascript WhatsApp Bot",
   "logo": "https://files.catbox.moe/0eylom.jpg",
-  "keywords": ["SOHAIB-BOT"],
+  "keywords": ["SOHAIB-AGENCY-HUB-BOT"],
   "success_url": "/",
   "stack": "container",
   
@@ -12,9 +12,9 @@
       "required": false
     },
     "DB_NAME": {
-      "description": "Database name for MongoDB (default: sohaibmd-x10)",
+      "description": "Database name for MongoDB (default: sohaib-agency-hub-bot)",
       "required": false,
-      "value": "sohaibmd-x10"
+      "value": "sohaib-agency-hub-bot"
     }
   },
 

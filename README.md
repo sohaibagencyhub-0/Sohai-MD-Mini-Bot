@@ -2,7 +2,7 @@
 
 An advanced, multi-functional automation tool built on top of Node.js, designed to run seamlessly with multiple options including Heroku, Docker, and local servers.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveedahmed35581-arch/naveed-mdv2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sohaibagencyhub-0/Sohai-MD-Mini-Bot)
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ An advanced, multi-functional automation tool built on top of Node.js, designed 
 
 Deploy your application directly to Heroku with one simple click of the button below:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveedahmed35581-arch/naveed-mdv2)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sohaibagencyhub-0/Sohai-MD-Mini-Bot)
 
 ### Deployment Steps
 
@@ -34,7 +34,7 @@ To run the application on your local machine:
 git clone https://github.com/sohaibagencyhub-0/Sohai-MD-Mini-Bot
 
 # Navigate into the project folder
-cd sohaib-MD-Mini-Bot
+cd Sohai-MD-Mini-Bot
 
 # Install dependencies
 npm install
@@ -49,10 +49,10 @@ If you prefer containerized deployment, build and run using Docker:
 
 ```bash
 # Build image
-docker build -t sohaib-MD-Mini-Bot .
+docker build -t sohaib-agency-hub-bot .
 
 # Run container
-docker run -d --name sohaib-bot sohaib-MD-Mini-Bot
+docker run -d --name sohaib-bot sohaib-agency-hub-bot
 ```
 
 ## 🔧 Configuration
